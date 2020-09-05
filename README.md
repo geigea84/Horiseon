@@ -7,6 +7,9 @@ HTML
 29 renamed div to section, adjusted alignment
 31 added comment first article
 33 renamed div to article, added id to fix hyperlink
+33-41 corrected article 1 tag format for better layout
+43-51 corrected article 2 tag format for better layout
+53-61 corrected article 3 tag format for better layout
 
 
 CSS
