@@ -20,6 +20,8 @@ adjusted benefits 3 image tag to be self closing
 added anchor element to header h1 to link back to homepage
 adjusted footer h2 to h3
 updated title, may need to adjust further to have full accessibility read-out
+adjusted alt attributes for improved search engine optimization
+changed div classs="content" to main
 
 
 CSS
@@ -42,7 +44,8 @@ removed font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-
 Added margin-right to .header div ul li, adjusted margin l&r to 30px - improved spacing in header
 added font-size to body, deprecated p element
 added comments to break up style sections
-Tweaked .header div ul li margins again
+tweaked .header div ul li margins again
+changed .content to main
 
 
 Need to do:
