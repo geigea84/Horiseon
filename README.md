@@ -34,6 +34,11 @@ removed redundant color line from benefits article
 consolidated search-engine-optimization, online-reputation-management, and social-media-marketing into .content article
 consolidated img and h2 for s-e-o, o-r-m, and s-m-m into .content img and .content h2 respectively
 removed redundant color from .content article
+removed header div ul list style type
+removed header color
+added font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; to body
+removed font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; from header div, .content article, .benefits, 
+
 
 
 Need to do:
