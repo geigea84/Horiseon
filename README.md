@@ -1,7 +1,7 @@
 # Horiseon
 
 HTML
-7 renamed title- Horiseon
+7 renamed title from website to Horiseon
 12 renamed div class="header" to header
 13 removed class=seo from span
 29 renamed div to section, adjusted alignment, leaving image link in CSS, added title element to replace alt
