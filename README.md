@@ -37,12 +37,14 @@ removed redundant color from .content article
 removed header div ul list style type
 removed header color
 added font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; to body
-removed font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; from header div, .content article, .benefits, 
-
+removed font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; from .content article, .benefits, 
+Added margin-right to .header div ul li, adjusted margin l&r to 30px - improved spacing in header
+added font-size to body, deprecated p element
 
 
 Need to do:
 Adjust hero picture to match layout given on bootcampspot
+Adjust header list to prevent floating issues
 Correct loadout order of CSS elements to correspond with logical layout of HTML structure
 Continue to comb through CSS file to remove redundancies
 Add comments to the CSS file
