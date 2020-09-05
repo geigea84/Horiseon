@@ -34,3 +34,11 @@ removed redundant color line from benefits article
 consolidated search-engine-optimization, online-reputation-management, and social-media-marketing into .content article
 consolidated img and h2 for s-e-o, o-r-m, and s-m-m into .content img and .content h2 respectively
 removed redundant color from .content article
+
+
+Need to do:
+Adjust hero picture to match layout given on bootcampspot
+Correct loadout order of CSS elements to correspond with logical layout of HTML structure
+Continue to comb through CSS file to remove redundancies
+Add comments to the CSS file
+Get to office hours to learn more about desired product for project grading
