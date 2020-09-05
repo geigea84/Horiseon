@@ -1,19 +1,19 @@
 # Horiseon
 
 HTML
-7 renamed title from website to Horiseon
-12 renamed div class="header" to header
-13 removed class=seo from span
-29 renamed div to section, adjusted alignment, leaving image link in CSS, added title element to replace alt
-31 added comment first article
-33 renamed div to article, added id to fix hyperlink
-33-41 corrected article 1 tag format for better layout
-43-51 corrected article 2 tag format for better layout
-53-61 corrected article 3 tag format for better layout
-63-92 corrected benefits tag format for better layout
-32, 42, 52 renamed comments from articles to content to better match the div class
-65, 74, 83 added comments for benefit articles 1, 2, and 3
-94 renamed div class="footer" to footer
+renamed title from website to Horiseon
+renamed div class="header" to header
+removed class=seo from span
+renamed div to section, adjusted alignment, leaving image link in CSS, added title element to replace alt
+added comment first article
+renamed div to article, added id to fix hyperlink
+corrected article 1 tag format for better layout
+corrected article 2 tag format for better layout
+corrected article 3 tag format for better layout
+corrected benefits tag format for better layout
+renamed comments from articles to content to better match the div class
+added comments for benefit articles 1, 2, and 3
+renamed div class="footer" to footer
 added alt attributes and descriptions to all content images
 added alt attributes w/o discriptions to all benefits images
 adjusted benefits 3 image tag to be self closing
@@ -40,6 +40,7 @@ added font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-se
 removed font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; from .content article, .benefits, 
 Added margin-right to .header div ul li, adjusted margin l&r to 30px - improved spacing in header
 added font-size to body, deprecated p element
+added comments to break up style sections
 
 
 Need to do:
