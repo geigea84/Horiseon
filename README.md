@@ -1,4 +1,10 @@
-# Horiseon
+# Horiseon Read Me
+
+Link to deployed application:
+https://geigea84.github.io/Horiseon/
+
+Link to GitHub repository:
+https://github.com/geigea84/Horiseon
 
 HTML
 renamed title from website to Horiseon
@@ -49,8 +55,12 @@ changed .content to main
 
 
 Need to do:
-Adjust hero picture to match layout given on bootcampspot
-Adjust header list to prevent floating issues
 Get to office hours to learn more about desired product for project grading
 
-Question to ask: what should the README final draft look like?
+Questions to ask: 
+what should the README final draft description and screenshot look like?
+-screenshot: is this a snip or full blown screen?
+how do I properly set up the return to homepage hyperlink?
+-tried both:
+<a href="https://geigea84.github.io/Horiseon/">Hori<span>seo</span>n</a>
+<a href="/">Hori<span>seo</span>n</a>
