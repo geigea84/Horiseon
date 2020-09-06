@@ -10,8 +10,11 @@ https://geigea84.github.io/Horiseon/
 Link to GitHub repository:
 https://github.com/geigea84/Horiseon
 
+![screenshot1](./assets/images/horiseon1.png)
+![screenshot1](./assets/images/horiseon2.png)
 
-HTML
+
+HTML Changes
 - renamed title from website to Horiseon
 - renamed div class="header" to header
 - removed class=seo from span
@@ -35,7 +38,7 @@ HTML
 - changed div classs="content" to main
 
 
-CSS
+CSS Changes
 - renamed all .header tags to header
 - renamed header h1 .seo to header h1 span
 - created backup-styles.css
@@ -58,14 +61,3 @@ CSS
 - tweaked .header div ul li margins again
 - changed .content to main
 - removed margin adjustment from .header div ul li, reinstated original to stay true to refactor, still suggest adding px to margins to improve spacing
-
-
-Need to do:
-Get to office hours to learn more about desired product for project grading
-
-Questions to ask: 
-what should the README screenshot look like? -is this a snip or full blown screen?
-how do I properly set up the return to homepage hyperlink?
--tried both:
-<a href="https://geigea84.github.io/Horiseon/">Hori<span>seo</span>n</a>
-<a href="/">Hori<span>seo</span>n</a>
