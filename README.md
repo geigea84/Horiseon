@@ -1,10 +1,15 @@
 # Horiseon Read Me
 
+Refactor project for digital marketing company Horiseon.  The primary goal of this project is to improve accessibility for search engine optimization, screen readers, and litigation prevention.
+
+I re-worked the HTML layout and improved tag semantics and consolidated the CSS elements and declarations and removed redundant declarations.  All changes are listed below.
+
 Link to deployed application:
 https://geigea84.github.io/Horiseon/
 
 Link to GitHub repository:
 https://github.com/geigea84/Horiseon
+
 
 HTML
 renamed title from website to Horiseon
@@ -52,6 +57,7 @@ added font-size to body, deprecated p element
 added comments to break up style sections
 tweaked .header div ul li margins again
 changed .content to main
+removed margin adjustment from .header div ul li, reinstated original to stay true to refactor, still suggest adding px to margins to improve spacing
 
 
 Need to do:
