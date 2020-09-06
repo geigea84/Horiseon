@@ -2,7 +2,7 @@
 
 Refactor project for digital marketing company Horiseon.  The primary goal of this project is to improve accessibility for search engine optimization, screen readers, and litigation prevention.
 
-I re-worked the HTML layout and improved tag semantics and consolidated the CSS elements and declarations and removed redundant declarations.  All changes are listed below.
+I re-worked the HTML layout and improved tag semantics, consolidated the CSS elements and declarations, and removed redundant declarations.  All changes are listed below.
 
 Link to deployed application:
 https://geigea84.github.io/Horiseon/
