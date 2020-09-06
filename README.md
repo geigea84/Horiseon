@@ -51,7 +51,6 @@ changed .content to main
 Need to do:
 Adjust hero picture to match layout given on bootcampspot
 Adjust header list to prevent floating issues
-Correct loadout order of CSS elements to correspond with logical layout of HTML structure
-Continue to comb through CSS file to remove redundancies
-Add comments to the CSS file
 Get to office hours to learn more about desired product for project grading
+
+Question to ask: what should the README final draft look like?
